@@ -4,7 +4,7 @@ import logo from './logo.svg';
 import './App.css';
 
 // const LOG_ROCKET_PROJECT_ID = 'asaser/logrocket-test-project'
-const LOG_ROCKET_PROJECT_ID = 'rhrklz/finsekaai';
+const LOG_ROCKET_PROJECT_ID = 'rhrklz/finseka-platform';
 
 // https://keithweaver.ca/lessons/capture-frontend-logs-user-insights-with-log-rocket/?s=ytktc1
 

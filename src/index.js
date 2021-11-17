@@ -3,10 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import LogRocket from 'logrocket';
-
-
-LogRocket.init('a84glm/logrocket-test-project-basvf');
 
 
 ReactDOM.render(
